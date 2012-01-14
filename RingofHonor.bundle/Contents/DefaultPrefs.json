@@ -1,0 +1,35 @@
+[
+  {
+        "id": "username",
+        "type": "text",
+        "label": "Username",
+        "default": ""
+    },
+    {
+        "id": "password",
+        "type": "text",
+        "label": "Password",
+        "default": "",
+        "option": "hidden"
+    },
+    {
+        "id": "quality",
+        "type": "enum",
+        "label": "TV Episode Quality",
+        "values": ["Low", "High"],
+        "default": "High"
+    },
+	{
+    	"id": "youtube_fmt",
+	    "type": "enum",
+    	"label": "Youtube Quality",
+	    "values": [
+    	    "Standard",
+        	"Medium",
+	        "High",
+    	    "720p",
+        	"1080p"
+	    ],
+    	"default": "1080p" 
+	}
+]
