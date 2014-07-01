@@ -1,3 +1,10 @@
 {
-    "Title": "Ring of Honor"
+    "Title"                                 : "Ring of Honor",
+    "TV Episodes"                           : "TV Episodes",
+    "Video Galleries"                       : "Video Galleries",
+    "ROH on YouTube"                        : "ROH on YouTube",
+    "Latest Episode"                        : "Latest Episode",
+    "Watch the latest episode of ROH"       : "Watch the latest episode of ROH",
+    "Error"                                 : "Error",
+    "This query did not return any result"  : "This query did not return any result"
 }
