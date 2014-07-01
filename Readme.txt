@@ -1,6 +1,7 @@
 Ring of Honor plugin for Plex
-* version 0.1a
-* by Chris Alden (chris@godkarmachine.com)
+* version 0.2
+* originally by Chris Alden (chris@godkarmachine.com)
+* rewritten by mikedm139 (https://github.com/mikedm139)
 
 
 DISCLAIMER - READ THIS!
@@ -17,19 +18,12 @@ INSTALLATION INSTRUCTIONS:
 
 WHAT'S SUPPORTED:
 * The latest episode of ROH TV
-* All freely-available video galleries from the site
 * ROH's Youtube channel
 
 WHAT'S NOT:
 * Ringside exclusive content (this will be supported in a later version)
+* All freely-available video galleries from the site
 * iPPV's (this may not be supported in this plugin)
-
-KNOWN ISSUES:
-* RTMP videos (TV and galleries) play fine if the Plex client is on the same box as the Plex Media Server, but do not play properly on remote clients.  Symptoms include:
-	* Extreme lag
-	* Audio may play on the server instead of the client
-  This behavior is known to manifest on Windows 7.  Youtube videos play fine on remote clients.
-* This plugin is only tested on Windows; if you are using it on a Mac, you may run into other isues.  Please contact me if you've discovered an error or odd behavior.
 
 THANKS:
 * The Plex dev team, of course, for making a great piece of media center software as well as for the Plex plugin kickstarter, which supplied the Youtube code.
